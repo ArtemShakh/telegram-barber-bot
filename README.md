@@ -45,7 +45,7 @@ Telegram-бот для записи клиентов в парикмахерск
 
 ### 👨‍💻 Контакты
 
-  * **Telegram:** [@Ooess\_1](https://www.google.com/search?q=https://t.me/Ooess_1)
+  * **Telegram:** [https://t.me/Ooess_1)
   * **Email:** [artemfree1228@gmail.com](mailto:artemfree1228@gmail.com)
 
 -----
